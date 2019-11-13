@@ -1,4 +1,6 @@
-# Scoop Apps for Layer5 command line clients
+# Layer5 Scoop Apps
+
+Scoop Apps for Layer5 command line clients
 
 ## Usage
 
