@@ -1,3 +1,6 @@
+<p style="text-align:center;" align="center">
+  <img align="center" src="https://raw.githubusercontent.com/layer5io/layer5/master/assets/images/layer5/layer5-tag-community-white-bg.png" width="45%" /></p>
+
 [![Docker Pulls](https://img.shields.io/docker/pulls/layer5/meshery.svg)](https://hub.docker.com/r/layer5/meshery)
 [![Go Report Card](https://goreportcard.com/badge/github.com/layer5io/meshery)](https://goreportcard.com/report/github.com/layer5io/meshery)
 [![Build Status](https://github.com/layer5io/meshery/workflows/Meshery/badge.svg)](https://github.com/layer5io/meshery/actions)
@@ -18,3 +21,8 @@ scoop install https://github.com/layer5io/scoop-bucket/<app-name>
 ```
 
 See [Meshery documentation](https://meshery.layer5.io/docs/installation) for additional usage.
+
+
+### About 
+
+[Layer5.io](https://layer5.io) is a community-maintained repository of information pertaining to the technology ecosystem surrounding service meshes, API gateways, edge proxies, ingress and egress controllers - - microservice management in cloud native environments. 
