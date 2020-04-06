@@ -23,6 +23,14 @@ scoop install https://github.com/layer5io/scoop-bucket/<app-name>
 See [Meshery documentation](https://meshery.layer5.io/docs/installation) for additional usage.
 
 
-### About 
+### License
 
-[Layer5.io](https://layer5.io) is a community-maintained repository of information pertaining to the technology ecosystem surrounding service meshes, API gateways, edge proxies, ingress and egress controllers - - microservice management in cloud native environments. 
+This repository and site are available as open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
+
+### About Layer5
+
+**Community First**
+<p>The <a href="https://layer5.io">Layer5</a> community represents the largest collection of service mesh projects and their maintainers in the world.</p>
+
+**Open Source First**
+<p>We build projects to provide learning environments, deployment and operational best practices, performance benchmarks, create documentation, share networking opportunities, and more. Our shared commitment to the open source spirit pushes Layer5 projects forward.</p>
