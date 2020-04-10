@@ -20,7 +20,7 @@ Scoop Apps for Layer5 command line clients
 scoop install https://github.com/layer5io/scoop-bucket/<app-name>
 ```
 
-See [Meshery documentation](https://meshery.layer5.io/docs/installation) for additional usage.
+See [Meshery documentation](https://meshery.layer5.io/docs/installation#scoop) for additional usage.
 
 
 ### License
