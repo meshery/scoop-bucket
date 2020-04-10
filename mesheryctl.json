@@ -1,0 +1,22 @@
+{
+    "version": "0.3.12",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/layer5io/meshery/releases/download/v0.3.12/mesheryctl_0.3.12_Windows_i386.zip",
+            "bin": [
+                "mesheryctl.exe"
+            ],
+            "hash": "0d6746be11b6f82e38ae0792c31b24537566e91f6d2c5e199cf9c41875c63aa8"
+        },
+        "64bit": {
+            "url": "https://github.com/layer5io/meshery/releases/download/v0.3.12/mesheryctl_0.3.12_Windows_x86_64.zip",
+            "bin": [
+                "mesheryctl.exe"
+            ],
+            "hash": "4f779a8d2a59695b1adde6d6996b68d9518e2e5e2518ab3ae858b862cfe79cd6"
+        }
+    },
+    "homepage": "https://layer5.io/meshery",
+    "license": "Apache 2.0",
+    "description": "The Multi-Service Mesh Management Plane."
+}
