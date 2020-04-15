@@ -16,8 +16,18 @@ Scoop Apps for Layer5 command line clients
 
 ## Usage
 
+### Installation Commands
+To install `mesheryctl`, execute the following commands.
+
 ```
-scoop install https://github.com/layer5io/scoop-bucket/<app-name>
+scoop bucket add mesheryctl https://github.com/layer5io/scoop-bucket.git
+scoop install mesheryctl
+```
+
+### Upgrading
+To upgrade `mesheryctl`, execute the following command.
+```
+scoop update mesheryctl
 ```
 
 See [Meshery documentation](https://meshery.layer5.io/docs/installation#scoop) for additional usage.
