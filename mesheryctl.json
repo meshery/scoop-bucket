@@ -1,19 +1,19 @@
 {
-    "version": "0.5.0-beta-3",
+    "version": "0.5.0-beta-4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/layer5io/meshery/releases/download/v0.5.0-beta-3/mesheryctl_0.5.0-beta-3_Windows_i386.zip",
+            "url": "https://github.com/layer5io/meshery/releases/download/v0.5.0-beta-4/mesheryctl_0.5.0-beta-4_Windows_i386.zip",
             "bin": [
                 "mesheryctl.exe"
             ],
-            "hash": "9556ab6fe6f543efd89b7e95f6741a61b8507f83c733e23889b66e04061b48c8"
+            "hash": "c91cf5057c29bc6c95d15dac5d76e4fd195665f3eed1a5f6fdc40487eff209ae"
         },
         "64bit": {
-            "url": "https://github.com/layer5io/meshery/releases/download/v0.5.0-beta-3/mesheryctl_0.5.0-beta-3_Windows_x86_64.zip",
+            "url": "https://github.com/layer5io/meshery/releases/download/v0.5.0-beta-4/mesheryctl_0.5.0-beta-4_Windows_x86_64.zip",
             "bin": [
                 "mesheryctl.exe"
             ],
-            "hash": "7af96b4686615733aef7e25d1b6c79c65aa3080cadec22fbc8a129108daac019"
+            "hash": "56ec5a5f4cd3e7bf6326b4fc50dee5f0cebee0ebebc21ff0599c1b34b8dae956"
         }
     },
     "homepage": "https://layer5.io/meshery",
