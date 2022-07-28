@@ -1,22 +1,22 @@
 {
-    "version": "0.6.0-rc.6c",
+    "version": "0.6.0-rc.6d",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/meshery/meshery/releases/download/v0.6.0-rc.6c/mesheryctl_0.6.0-rc.6c_Windows_i386.zip",
+            "url": "https://github.com/meshery/meshery/releases/download/v0.6.0-rc.6d/mesheryctl_0.6.0-rc.6d_Windows_i386.zip",
             "bin": [
                 "mesheryctl.exe"
             ],
-            "hash": "172181e36d5335a363abdbe4d6e5dd05c75cb0afbfd7809dfb306c5f9994c030"
+            "hash": "b0f2336bab92802df4177d10033aeb2ef5e9fdb0f6ade3b7f86816bb70ba7393"
         },
         "64bit": {
-            "url": "https://github.com/meshery/meshery/releases/download/v0.6.0-rc.6c/mesheryctl_0.6.0-rc.6c_Windows_x86_64.zip",
+            "url": "https://github.com/meshery/meshery/releases/download/v0.6.0-rc.6d/mesheryctl_0.6.0-rc.6d_Windows_x86_64.zip",
             "bin": [
                 "mesheryctl.exe"
             ],
-            "hash": "7e25ff5f6c77507b82c6bbef9b27b156b17c55e0b870dc6fdce5addb4e28e9fd"
+            "hash": "179c9907563d6f437a3280158cc76fb44cb5aee188149ac442444bc5cb2fb1bc"
         }
     },
     "homepage": "https://layer5.io/meshery",
     "license": "Apache 2.0",
-    "description": "The Multi-Service Mesh Management Plane."
+    "description": "The Cloud Native Management Plane."
 }
