@@ -6,14 +6,14 @@
             "bin": [
                 "mesheryctl.exe"
             ],
-            "hash": "8a46c72c93464b8303304d7c7335853e21872c25051cf9ab0a7979e380e46c69"
+            "hash": "12a598b05261d55c04b0a256013a04c29c5c88dbeaacf0b388db80c6a142d206"
         },
         "64bit": {
             "url": "https://github.com/meshery/meshery/releases/download/v0.6.23/mesheryctl_0.6.23_Windows_x86_64.zip",
             "bin": [
                 "mesheryctl.exe"
             ],
-            "hash": "6cbe22c94e3b0fb5a2df40a4101d73a0cc23a0c9797a9bf6be31e6281e0d3d44"
+            "hash": "f1e40e8a873d4e8b8c10f9b9e0c5d96ac9687c478793c845c7b23c4dc88cb8a3"
         }
     },
     "homepage": "https://layer5.io/meshery",
