@@ -1,5 +1,5 @@
 <!--<p style="text-align:center;" align="center">
-  <img align="center" src="https://raw.githubusercontent.com/mesheryiomeshery5/master/.github/assets/imagemesherymesheryer5-tag-community-white-bg.png" width="45%" /></p>-->
+  <img align="center" src="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/meshery-tag-community-white-bg.png" width="45%" /></p>-->
 
 
 # Meshery Scoop Apps
