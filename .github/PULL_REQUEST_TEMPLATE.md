@@ -10,7 +10,7 @@ This PR fixes #
  
 
 <!--
-Thank you for contributing to Layer5 projects! 
+Thank you for contributing to meshery projects! 
 
 Contributing Conventions:
 
