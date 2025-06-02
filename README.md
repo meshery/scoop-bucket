@@ -30,7 +30,7 @@ To upgrade `mesheryctl`, execute the following command.
 scoop update mesheryctl
 ```
 
-See [Meshery documentation](https://meshery.meshery.io/docs/installation#scoop) for additional usage.
+See [Meshery documentation](https://docs.meshery.io/docs/installation#scoop) for additional usage.
 
 
 ## Contributing
