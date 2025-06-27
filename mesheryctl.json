@@ -1,19 +1,19 @@
 {
-    "version": "0.8.109",
+    "version": "0.8.111",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/meshery/meshery/releases/download/v0.8.109/mesheryctl_0.8.109_Windows_i386.zip",
+            "url": "https://github.com/meshery/meshery/releases/download/v0.8.111/mesheryctl_0.8.111_Windows_i386.zip",
             "bin": [
                 "mesheryctl.exe"
             ],
-            "hash": "7166c559b7bd8afa8b410e0e3859d4d20bf24f291e49bf1e0ddca22827284041"
+            "hash": "14c744066469c7acd5d36902ba9cdbd5fa9171543870c29db599c783f157a349"
         },
         "64bit": {
-            "url": "https://github.com/meshery/meshery/releases/download/v0.8.109/mesheryctl_0.8.109_Windows_x86_64.zip",
+            "url": "https://github.com/meshery/meshery/releases/download/v0.8.111/mesheryctl_0.8.111_Windows_x86_64.zip",
             "bin": [
                 "mesheryctl.exe"
             ],
-            "hash": "9c414d6e21ad2fdd4793dd38495e0be49dc224935e605b79d9194f962324a860"
+            "hash": "28564ac721930a6e8f05040bd4c8e7f73aacb38e7c7b05a6526ab6c318ff0b59"
         }
     },
     "homepage": "https://meshery.io",
