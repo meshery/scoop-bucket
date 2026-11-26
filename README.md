@@ -5,7 +5,6 @@
 # Meshery Scoop Apps
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/meshery/meshery.svg)](https://hub.docker.com/r/meshery/meshery)
-[![Go Report Card](https://goreportcard.com/badge/github.com/meshery/meshery)](https://goreportcard.com/report/github.com/meshery/meshery)
 [![GitHub](https://img.shields.io/github/license/meshery/meshery.svg)](LICENSE)
 [![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery/help%20wanted.svg)](https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20(org%3Ameshery%20OR%20org%3Aservice-mesh-performance%20OR%20org%3Aservice-mesh-patterns%20OR%20org%3Ameshery-extensions)%20label%3A%22help%20wanted%22)
 [![Website](https://img.shields.io/website/https/meshery.io/meshery.svg)](https://meshery.io/)
